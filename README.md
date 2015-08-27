@@ -30,7 +30,8 @@ How to use
           browserVersion = caps.caps_.version;
           return null;
         });
-        var HTMLReport = require('./helpers/custom-report');
+        
+        var HTMLReport = require('jasmine-xml2html-converter');
         reportPath += browserName;
 
         // Call custom report for html output
