@@ -53,5 +53,5 @@ Test config object
 
 Sample html report
 ----------------------------------
-![Alt text](https://github.com/basavanag/jasmine-xml2html-converter/sample_test_report.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/basavanag/jasmine-xml2html-converter/master/sample_test_report.png?raw=true)
 
