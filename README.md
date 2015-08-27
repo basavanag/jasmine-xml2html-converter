@@ -3,6 +3,8 @@ jasmine-xml2html-converter
 
 A node module to convert jasmine/junit generated xml reports into formatted html reports
 
+repo : https://github.com/basavanag/jasmine-xml2html-converter
+
 How to use
 ----------------------------------
 * Coverting the xml file to html
