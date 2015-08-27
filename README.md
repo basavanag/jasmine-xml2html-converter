@@ -51,5 +51,7 @@ Test config object
 * To override reportTitle & outputPath of the output html file : testConfig = { reportTitle: 'Test Execution Report', outputPath: './test-out' }
 * To add data to the report summary of the output html file: testConfig = { Browser: IE }
 
-
+Sample html report
+----------------------------------
+![Alt text](https://github.com/basavanag/jasmine-xml2html-converter/sample_test_report.png?raw=true)
 
